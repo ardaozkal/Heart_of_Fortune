@@ -1,0 +1,14 @@
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\bin\Debug\Heart_of_Fortune.exe.config
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\bin\Debug\Heart_of_Fortune.exe
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\bin\Debug\Heart_of_Fortune.pdb
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.csprojResolveAssemblyReference.cache
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\MainWindow.g.cs
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\App.g.cs
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune_MarkupCompile.cache
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune_MarkupCompile.lref
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\MainWindow.baml
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.g.resources
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.Properties.Resources.resources
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.csproj.GenerateResource.Cache
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.exe
+c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.pdb
