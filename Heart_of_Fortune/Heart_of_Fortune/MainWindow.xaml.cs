@@ -64,7 +64,7 @@ namespace Heart_of_Fortune
                 }
             }
             textBox1.Text = "";
-            textBox1.IsEnabled = false;
+            button1.IsEnabled = false;
         }
     }
 }
