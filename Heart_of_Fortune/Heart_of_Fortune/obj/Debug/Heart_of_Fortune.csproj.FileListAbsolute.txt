@@ -12,3 +12,17 @@ c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_F
 c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.csproj.GenerateResource.Cache
 c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.exe
 c:\users\ardao\documents\visual studio 2015\Projects\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.pdb
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\bin\Debug\Heart_of_Fortune.exe.config
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.exe
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.pdb
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\bin\Debug\Heart_of_Fortune.exe
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.csprojResolveAssemblyReference.cache
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\MainWindow.g.cs
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\App.g.cs
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune_MarkupCompile.cache
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune_MarkupCompile.lref
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\MainWindow.baml
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.g.resources
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.Properties.Resources.resources
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\obj\Debug\Heart_of_Fortune.csproj.GenerateResource.Cache
+C:\Users\ardao\Documents\GitHub\Heart_of_Fortune\Heart_of_Fortune\Heart_of_Fortune\bin\Debug\Heart_of_Fortune.pdb

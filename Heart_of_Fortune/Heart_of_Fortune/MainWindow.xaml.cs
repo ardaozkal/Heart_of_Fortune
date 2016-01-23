@@ -40,7 +40,7 @@ namespace Heart_of_Fortune
                 }
             }
             button.IsEnabled = false;
-            textBox.IsEnabled = false;
+            //textBox.IsEnabled = false;
             textBox1.IsEnabled = true;
             button1.IsEnabled = false;
         }
