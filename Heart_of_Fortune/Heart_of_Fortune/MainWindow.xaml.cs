@@ -30,6 +30,8 @@ namespace Heart_of_Fortune
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
+           try
+           {
             startstring = textBox.Text;
             for (int i = 0; i < textBox.Text.Length; i++)
             {
@@ -43,6 +45,12 @@ namespace Heart_of_Fortune
             //textBox.IsEnabled = false;
             textBox1.IsEnabled = true;
             button1.IsEnabled = false;
+           }
+          catch(Exception ex)
+          {
+              textBox1.Text = ex.ToString(); //Bu editi telefondan mobil data kullanarak yaptım. Wi-Fi yok.
+              
+           }
         }
 
         private void textBox1_TextChanged(object sender, TextChangedEventArgs e)
